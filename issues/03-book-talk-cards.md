@@ -4,3 +4,5 @@ labels: partnership-activity
 ---
 
 **Description:** When reading partners meet, their conversations often stall at 'I liked it.' We need a set of prompt cards to help them discuss plot, character, and recommendations in a more meaningful way.
+
+**Status:** Resolved with the addition of the new resource in PR #1.
